@@ -1,4 +1,4 @@
-# Fisrt_demo
+# First_demo
 This is my first github Repository 
 
 Author-Amandeep
